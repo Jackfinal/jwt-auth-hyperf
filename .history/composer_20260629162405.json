@@ -38,8 +38,6 @@
         "hyperf/config": "required hyperf/config ~3.0.0",
         "hyperf/di": "required hyperf/di ~3.0.0"
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "config": {
         "sort-packages": true
     },
